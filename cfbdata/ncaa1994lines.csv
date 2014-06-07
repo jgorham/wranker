@@ -1,0 +1,614 @@
+Date,Visitor,Visitor Score,Home Team,Home Score,Line
+08/28/1994,Nebraska,31,West Virginia,0,-16.5
+08/29/1994,Fresno State,10,Ohio State,34,13.5
+09/01/1994,Arizona,19,Georgia Tech,14,-7.0
+09/01/1994,Bowling Green,15,No Carolina State,20, 
+09/01/1994,Kansas,35,Houston,13,-13.5
+09/01/1994,Oklahoma State,31,Northern Illinois,14, 
+09/01/1994,Washington State,10,Illinois,9,9.0
+09/03/1994,Arkansas State,7,Virginia Tech,34, 
+09/03/1994,Auburn,22,Mississippi,17,-6.0
+09/03/1994,Ball State,14,West Virginia,16, 
+09/03/1994,Boston College,26,Michigan,34,14.0
+09/03/1994,Brigham Young,13,Hawaii,12,-10.5
+09/03/1994,Chattanooga,13,Alabama,42, 
+09/03/1994,Cincinnati,3,Indiana,28,9.5
+09/03/1994,Central Michigan,21,Iowa,52, 
+09/03/1994,Colorado State,34,Air Force,21,-5.0
+09/03/1994,Eastern Michigan,3,Nevada-Las Vegas,17, 
+09/03/1994,Furman,6,Clemson,27, 
+09/03/1994,Georgia,24,South Carolina,21,-3.5
+09/03/1994,Georgia Southern,0,Miami-Florida,56, 
+09/03/1994,Indiana State,17,Toledo,20, 
+09/03/1994,Kent State,6,Rutgers,28, 
+09/03/1994,Louisville,14,Kentucky,20,4.0
+09/03/1994,Louisiana Tech,3,Baylor,44, 
+09/03/1994,Maryland,16,Duke,49,-2.0
+09/03/1994,Mississippi State,17,Memphis,6,-5.0
+09/03/1994,Navy,14,San Diego State,56,13.0
+09/03/1994,Notre Dame,42,Northwestern,15,-24.0
+09/03/1994,UL-Monroe,13,Colorado,48, 
+09/03/1994,New Mexico,31,Texas Tech,37,3.5
+09/03/1994,New Mexico State,21,Florida,70, 
+09/03/1994,Northern Arizona,27,Nevada-Reno,30, 
+09/03/1994,Northern Iowa,28,Iowa State,14, 
+09/03/1994,Oklahoma,30,Syracuse,29,-6.5
+09/03/1994,Oregon State,16,Arizona State,22,13.0
+09/03/1994,Penn State,56,Minnesota,3,-14.0
+09/03/1994,Portland State,16,Oregon,58, 
+09/03/1994,San Jose State,13,Fresno State,45, 
+09/03/1994,Southern Miss,25,Tulane,10,-6.0
+09/03/1994,S-M-U,14,Arkansas,34,11.0
+09/03/1994,UL-Lafayette,6,Kansas State,34, 
+09/03/1994,Texas Christian,17,North Carolina,27,20.0
+09/03/1994,Temple,32,Akron,7, 
+09/03/1994,Tennessee,23,U.C.L.A.,25,0.0
+09/03/1994,Texas,30,Pittsburgh,28,-12.0
+09/03/1994,Tulsa,20,Missouri,17,6.0
+09/03/1994,Texas A+M,18,Louisiana State,13,-7.5
+09/03/1994,Utah,32,Utah State,17, 
+09/03/1994,UTEP,13,Wyoming,36,14.0
+09/03/1994,Virginia,17,Florida State,41,19.0
+09/03/1994,Washington,17,Southern Cal,24,4.5
+09/03/1994,Wake Forest,14,Vanderbilt,35,7.0
+09/03/1994,Western Michigan,28,Miami-Ohio,25, 
+09/08/1994,Nebraska,42,Texas Tech,16,-24.0
+09/08/1994,Western Illinois,7,Western Michigan,43, 
+09/10/1994,Arkansas State,0,Nevada-Reno,18, 
+09/10/1994,Appalachian State,10,Wake Forest,12, 
+09/10/1994,Arkansas,0,South Carolina,14,3.0
+09/10/1994,Baylor,54,San Jose State,20, 
+09/10/1994,Bowling Green,45,Akron,0, 
+09/10/1994,Brigham Young,45,Air Force,21,-15.5
+09/10/1994,California,20,San Diego State,22,-6.5
+09/10/1994,East Carolina,10,Duke,13,6.0
+09/10/1994,Eastern Illinois,20,UTEP,22, 
+09/10/1994,Eastern Michigan,0,Wisconsin,56, 
+09/10/1994,Fresno State,3,Washington State,24,7.0
+09/10/1994,Florida State,52,Maryland,20,-33.5
+09/10/1994,Holy Cross,3,Army,49, 
+09/10/1994,Houston,7,Louisiana Tech,32, 
+09/10/1994,Iowa State,9,Iowa,37,10.5
+09/10/1994,Idaho State,0,Utah,66, 
+09/10/1994,Kentucky,7,Florida,73,24.5
+09/10/1994,Louisville,16,Texas,30,10.0
+09/10/1994,Michigan State,10,Kansas,17,4.0
+09/10/1994,Memphis,42,Tulsa,18,3.0
+09/10/1994,Miami-Florida,47,Arizona State,10,-14.0
+09/10/1994,Miami-Ohio,14,Indiana,35, 
+09/10/1994,Michigan,26,Notre Dame,24,5.5
+09/10/1994,Missouri,0,Illinois,42,14.0
+09/10/1994,Mississippi State,24,Louisiana State,44,-2.5
+09/10/1994,No Carolina State,29,Clemson,12,7.0
+09/10/1994,UL-Monroe,12,Auburn,44, 
+09/10/1994,Northern Illinois,9,UL-Lafayette,29, 
+09/10/1994,New Mexico State,0,Arizona,44, 
+09/10/1994,Ohio,16,Pittsburgh,30, 
+09/10/1994,Ohio State,16,Washington,25,5.5
+09/10/1994,Oklahoma,14,Texas A+M,36,2.5
+09/10/1994,Oregon,16,Hawaii,36,-7.0
+09/10/1994,Pacific,7,Minnesota,33, 
+09/10/1994,Southern Cal,14,Penn State,38,7.0
+09/10/1994,Southern Illinois,3,Mississippi,59, 
+09/10/1994,S-M-U,10,U.C.L.A.,17,24.0
+09/10/1994,Stanford,41,Northwestern,41,-13.5
+09/10/1994,Syracuse,34,Cincinnati,19,-7.0
+09/10/1994,Texas Christian,44,New Mexico,29,6.0
+09/10/1994,Tennessee,41,Georgia,23,-1.0
+09/10/1994,Toledo,17,Purdue,51, 
+09/10/1994,Tulane,15,Rice,13,14.0
+09/10/1994,Nevada-Las Vegas,23,Central Michigan,35, 
+09/10/1994,Utah State,16,Colorado State,41, 
+09/10/1994,Vanderbilt,7,Alabama,17,20.5
+09/10/1994,Virginia,47,Navy,10,-24.0
+09/10/1994,Virginia Tech,24,Southern Miss,14,-7.5
+09/10/1994,Western Carolina,26,Georgia Tech,45, 
+09/10/1994,West Virginia,12,Rutgers,17,0.0
+09/10/1994,Wyoming,31,Oregon State,44,6.5
+09/15/1994,Army,7,Duke,43,15.0
+09/17/1994,Akron,16,Kent State,32, 
+09/17/1994,Alabama,13,Arkansas,6,-6.0
+09/17/1994,Ball State,21,Purdue,49, 
+09/17/1994,Cincinnati,17,Miami-Ohio,17, 
+09/17/1994,Clemson,6,Virginia,9,7.0
+09/17/1994,Central Michigan,30,Eastern Michigan,29, 
+09/17/1994,Colorado State,28,Brigham Young,21,10.0
+09/17/1994,East Carolina,31,Temple,14,-12.5
+09/17/1994,Florida,31,Tennessee,0,-5.0
+09/17/1994,Florida State,56,Wake Forest,14,-39.0
+09/17/1994,Hawaii,21,California,7,15.5
+09/17/1994,Idaho,48,Nevada-Las Vegas,38, 
+09/17/1994,Indiana,59,Kentucky,29,-3.0
+09/17/1994,Iowa,21,Penn State,61,21.0
+09/17/1994,Kansas,21,Texas Christian,31,-5.0
+09/17/1994,Liberty,37,Toledo,47, 
+09/17/1994,Louisville,25,Arizona State,22,7.5
+09/17/1994,Louisiana State,26,Auburn,30,10.5
+09/17/1994,Louisiana Tech,6,South Carolina,31, 
+09/17/1994,Maryland,24,West Virginia,13,14.0
+09/17/1994,Memphis,3,Southern Miss,20,0.0
+09/17/1994,Mississippi,20,Vanderbilt,14,-1.5
+09/17/1994,Missouri,16,Houston,0,-6.0
+09/17/1994,Navy,21,Bowling Green,59, 
+09/17/1994,Notre Dame,21,Michigan State,20,-12.0
+09/17/1994,UL-Monroe,6,Georgia,70, 
+09/17/1994,Nevada-Reno,27,Boise State,37, 
+09/17/1994,Northern Illinois,10,Illinois,34, 
+09/17/1994,New Mexico,31,S-M-U,34,3.5
+09/17/1994,New Mexico State,23,UTEP,22, 
+09/17/1994,Northwestern,14,Air Force,10,-2.0
+09/17/1994,Oklahoma State,10,Baylor,14,12.0
+09/17/1994,Oregon State,14,Fresno State,24,0.0
+09/17/1994,Pittsburgh,3,Ohio State,27,16.0
+09/17/1994,Rice,18,Kansas State,27,14.0
+09/17/1994,Rutgers,36,Syracuse,37,10.5
+09/17/1994,San Diego State,17,Minnesota,40,-2.0
+09/17/1994,Southern Illinois,14,Arkansas State,41, 
+09/17/1994,San Jose State,20,Stanford,51, 
+09/17/1994,Troy,39,UL-Lafayette,20, 
+09/17/1994,Texas Tech,11,Oklahoma,17,21.5
+09/17/1994,Tulane,0,North Carolina,49,23.5
+09/17/1994,Tulsa,7,Wyoming,17,9.0
+09/17/1994,U.C.L.A.,21,Nebraska,49,16.0
+09/17/1994,Utah,34,Oregon,16,3.0
+09/17/1994,Utah State,5,Ohio,0, 
+09/17/1994,Virginia Tech,12,Boston College,7,2.0
+09/17/1994,Wisconsin,17,Colorado,55,6.5
+09/17/1994,Western Michigan,23,Iowa State,19, 
+09/22/1994,West Virginia,6,Virginia Tech,34,15.0
+09/24/1994,Air Force,47,UTEP,7,-6.5
+09/24/1994,Akron,6,Western Michigan,19, 
+09/24/1994,Arkansas State,17,New Mexico State,24, 
+09/24/1994,Arizona,34,Stanford,10,-5.5
+09/24/1994,Arkansas,15,Memphis,16,-3.5
+09/24/1994,Arizona State,21,California,25,7.0
+09/24/1994,Baylor,27,Southern Cal,37,11.0
+09/24/1994,Boston College,21,Pittsburgh,9, 
+09/24/1994,Bowling Green,30,Eastern Michigan,13, 
+09/24/1994,Colorado,27,Michigan,26,5.0
+09/24/1994,Duke,27,Georgia Tech,12,7.0
+09/24/1994,Eastern Illinois,17,Northern Illinois,49, 
+09/24/1994,East Tennessee St,0,Auburn,38, 
+09/24/1994,Fresno State,31,Hawaii,16,7.0
+09/24/1994,Houston,0,Ohio State,52,38.5
+09/24/1994,Indiana,13,Wisconsin,62,8.5
+09/24/1994,Iowa,18,Oregon,40,-1.0
+09/24/1994,Kent State,0,Central Michigan,45, 
+09/24/1994,Miami-Ohio,10,Michigan State,45, 
+09/24/1994,Minnesota,0,Kansas State,35,9.0
+09/24/1994,Mississippi,14,Georgia,17,7.5
+09/24/1994,North Carolina,18,Florida State,31,21.0
+09/24/1994,UL-Monroe,22,Nevada-Reno,34, 
+09/24/1994,New Mexico,47,Brigham Young,49,15.0
+09/24/1994,Ohio,14,Ball State,21, 
+09/24/1994,Pacific,21,Nebraska,70, 
+09/24/1994,Purdue,21,Notre Dame,39,22.5
+09/24/1994,Rice,28,Iowa State,18, 
+09/24/1994,Rutgers,27,Penn State,55,31.0
+09/24/1994,South Carolina,23,Kentucky,9,-7.0
+09/24/1994,San Diego State,17,Colorado State,19,7.5
+09/24/1994,Southern Miss,17,Texas A+M,41,22.0
+09/24/1994,S-M-U,7,Texas Tech,35,6.5
+09/24/1994,UL-Lafayette,28,San Jose State,31, 
+09/24/1994,Syracuse,21,East Carolina,18,-3.0
+09/24/1994,Temple,23,Army,20,10.0
+09/24/1994,Tennessee,21,Mississippi State,24,-5.5
+09/24/1994,Texas,34,Texas Christian,18,-7.0
+09/24/1994,Tulane,10,Alabama,20,29.0
+09/24/1994,Tulsa,10,Oklahoma State,17,9.5
+09/24/1994,U-A-B,0,Kansas,72, 
+09/24/1994,Nevada-Las Vegas,23,Utah State,21, 
+09/24/1994,Washington,38,Miami-Florida,20,14.0
+09/24/1994,Washington State,21,U.C.L.A.,0,7.5
+09/24/1994,Western Carolina,13,No Carolina State,38, 
+09/24/1994,Wake Forest,7,Maryland,31,12.0
+09/24/1994,Wyoming,7,Utah,41,12.0
+09/29/1994,Kentucky,14,Auburn,41,25.0
+09/30/1994,Utah State,6,Brigham Young,34, 
+10/01/1994,Air Force,36,San Diego State,35,9.5
+10/01/1994,Arkansas State,3,Mississippi State,49, 
+10/01/1994,Army,27,Wake Forest,33, 
+10/01/1994,Baylor,42,Texas Christian,18,-3.0
+10/01/1994,Bowling Green,38,Cincinnati,0, 
+10/01/1994,Central Michigan,28,Ball State,31, 
+10/01/1994,Colorado,34,Texas,31,-7.0
+10/01/1994,Colorado State,38,New Mexico,31,-7.0
+10/01/1994,Duke,47,Navy,14,-22.0
+10/01/1994,Florida,38,Mississippi,14,-20.5
+10/01/1994,Georgia,28,Alabama,29,5.0
+10/01/1994,Georgia Tech,13,No Carolina State,21,12.0
+10/01/1994,Hawaii,28,UTEP,34,-20.0
+10/01/1994,Iowa State,6,Oklahoma,34,30.0
+10/01/1994,Kent State,10,Western Michigan,24, 
+10/01/1994,Maryland,0,Clemson,13,7.0
+10/01/1994,Miami-Florida,24,Rutgers,3,-19.0
+10/01/1994,Miami-Ohio,21,Eastern Michigan,17, 
+10/01/1994,Michigan,29,Iowa,14,-18.5
+10/01/1994,Minnesota,14,Indiana,25,7.5
+10/01/1994,North Carolina,28,S-M-U,24,-17.5
+10/01/1994,Nevada-Reno,35,Northern Illinois,31, 
+10/01/1994,North Texas,34,Oklahoma State,36, 
+10/01/1994,Ohio State,17,Northwestern,15,-18.0
+10/01/1994,Oregon,22,Southern Cal,7,19.0
+10/01/1994,Oregon State,10,Arizona,30,21.5
+10/01/1994,Penn State,48,Temple,21,-44.5
+10/01/1994,Pittsburgh,29,Louisville,33,12.0
+10/01/1994,Purdue,22,Illinois,16,17.0
+10/01/1994,South Carolina,18,Louisiana State,17,7.0
+10/01/1994,San Jose State,0,California,55, 
+10/01/1994,Southern Miss,10,East Carolina,31,2.5
+10/01/1994,Stanford,15,Notre Dame,34,15.0
+10/01/1994,UL-Lafayette,13,Louisiana Tech,3, 
+10/01/1994,Toledo,31,Ohio,6, 
+10/01/1994,Texas Tech,17,Texas A+M,23,19.0
+10/01/1994,U.C.L.A.,10,Washington,37,12.0
+10/01/1994,Nevada-Las Vegas,31,New Mexico State,27, 
+10/01/1994,Vanderbilt,6,Arkansas,42,6.0
+10/01/1994,Virginia Tech,20,Syracuse,28,-5.5
+10/01/1994,Washington State,9,Tennessee,10,4.5
+10/01/1994,Wisconsin,10,Michigan State,29,-8.0
+10/01/1994,William + Mary,3,Virginia,37, 
+10/01/1994,West Virginia,34,Missouri,10,-1.5
+10/01/1994,Wyoming,32,Nebraska,42,41.0
+10/06/1994,Kansas State,21,Kansas,13,1.0
+10/08/1994,Akron,14,Miami-Ohio,50, 
+10/08/1994,Arkansas State,0,UL-Lafayette,26, 
+10/08/1994,Arkansas,21,Tennessee,38,10.0
+10/08/1994,Army,14,Rutgers,16, 
+10/08/1994,Auburn,42,Mississippi State,18,-2.0
+10/08/1994,Ball State,24,Toledo,24, 
+10/08/1994,Brigham Young,32,Fresno State,30,-1.0
+10/08/1994,Clemson,14,Georgia,40,11.0
+10/08/1994,Colorado,38,Missouri,23,-33.0
+10/08/1994,Colorado State,21,Arizona,16,17.0
+10/08/1994,East Carolina,56,South Carolina,42,8.0
+10/08/1994,Eastern Michigan,24,Kent State,10, 
+10/08/1994,Florida State,20,Miami-Florida,34,-4.0
+10/08/1994,Georgia Tech,24,North Carolina,31,14.0
+10/08/1994,Illinois,24,Ohio State,10,6.0
+10/08/1994,Indiana,27,Iowa,20,3.5
+10/08/1994,Louisiana State,18,Florida,42,26.5
+10/08/1994,Louisiana Tech,20,Nevada-Las Vegas,24, 
+10/08/1994,Michigan State,20,Michigan,40,14.0
+10/08/1994,Minnesota,37,Purdue,49,9.0
+10/08/1994,Navy,21,Air Force,43,24.0
+10/08/1994,No Carolina State,14,Louisville,35,-2.5
+10/08/1994,Notre Dame,11,Boston College,30,-10.5
+10/08/1994,UL-Monroe,14,Wyoming,28, 
+10/08/1994,New Mexico,38,Hawaii,21,6.0
+10/08/1994,New Mexico State,27,Northern Illinois,48, 
+10/08/1994,Ohio,0,Bowling Green,32, 
+10/08/1994,Oklahoma,10,Texas,17, 
+10/08/1994,Oklahoma State,3,Nebraska,32, 
+10/08/1994,Oregon,7,Washington State,21,11.0
+10/08/1994,Pacific,26,Nevada-Reno,38, 
+10/08/1994,Pittsburgh,7,Syracuse,31,10.5
+10/08/1994,Southern Cal,27,Oregon State,19,-6.5
+10/08/1994,San Jose State,20,Washington,34, 
+10/08/1994,Southern Miss,6,Alabama,14,16.0
+10/08/1994,S-M-U,10,Baylor,44,14.5
+10/08/1994,Stanford,35,Arizona State,36,-1.5
+10/08/1994,Temple,13,Virginia Tech,41,29.0
+10/08/1994,Texas Tech,21,Rice,24,-3.5
+10/08/1994,Tulane,0,Memphis,13,13.5
+10/08/1994,Texas A+M,38,Houston,7, 
+10/08/1994,U.C.L.A.,7,California,26,3.0
+10/08/1994,Utah,38,San Diego State,22,-8.0
+10/08/1994,UTEP,24,Tulsa,17,13.5
+10/08/1994,Vanderbilt,34,Cincinnati,24,-6.5
+10/08/1994,Virginia,42,Wake Forest,6,-22.5
+10/08/1994,Wisconsin,46,Northwestern,14,-12.0
+10/08/1994,Western Michigan,28,Central Michigan,35, 
+10/15/1994,Arkansas State,6,Memphis,15, 
+10/15/1994,Alabama,17,Tennessee,13,3.5
+10/15/1994,Arizona,10,Washington State,7,0.0
+10/15/1994,Auburn,36,Florida,33,16.5
+10/15/1994,Arizona State,14,Washington,35,15.5
+10/15/1994,Baylor,21,Texas A+M,41,10.0
+10/15/1994,Bowling Green,31,Toledo,16, 
+10/15/1994,Brigham Young,21,Notre Dame,14,14.5
+10/15/1994,California,7,Oregon,23,2.5
+10/15/1994,Cincinnati,9,Rutgers,14,14.0
+10/15/1994,Clemson,13,Duke,19,7.0
+10/15/1994,Central Michigan,47,Akron,0, 
+10/15/1994,Hawaii,3,Utah,14,18.5
+10/15/1994,Houston,39,S-M-U,33,14.0
+10/15/1994,Iowa,7,Illinois,47,16.0
+10/15/1994,Kansas,41,Iowa State,23,-15.0
+10/15/1994,Kent State,14,Youngstown State,28, 
+10/15/1994,Kentucky,13,Louisiana State,17,16.0
+10/15/1994,Lafayette,0,Navy,7, 
+10/15/1994,Louisville,29,Army,30,-17.0
+10/15/1994,Maryland,17,North Carolina,41,16.5
+10/15/1994,Miami-Ohio,31,Ohio,10, 
+10/15/1994,Mississippi,7,Arkansas,31,2.5
+10/15/1994,Missouri,24,Oklahoma State,15,9.0
+10/15/1994,Mississippi State,41,South Carolina,36,2.5
+10/15/1994,Nebraska,17,Kansas State,6,-6.5
+10/15/1994,Northern Illinois,32,Pacific,41, 
+10/15/1994,New Mexico State,24,Nevada-Reno,45, 
+10/15/1994,Northwestern,37,Minnesota,31,4.5
+10/15/1994,Ohio State,23,Michigan State,7,1.5
+10/15/1994,Oklahoma,7,Colorado,45,12.0
+10/15/1994,Oregon State,23,U.C.L.A.,14,7.5
+10/15/1994,Penn State,31,Michigan,24,1.0
+10/15/1994,Purdue,27,Wisconsin,27,14.5
+10/15/1994,Southern Cal,27,Stanford,20,-1.0
+10/15/1994,San Diego State,20,New Mexico,13,6.5
+10/15/1994,UL-Lafayette,20,Southern Miss,43, 
+10/15/1994,Texas Christian,30,Tulane,28,-8.0
+10/15/1994,Temple,28,Boston College,45,28.0
+10/15/1994,Nevada-Las Vegas,22,Tulsa,44, 
+10/15/1994,UTEP,9,Colorado State,47,26.0
+10/15/1994,Utah State,7,Louisiana Tech,3, 
+10/15/1994,Vanderbilt,43,Georgia,30,20.0
+10/15/1994,Virginia,24,Georgia Tech,7,-7.0
+10/15/1994,Virginia Tech,27,East Carolina,20,-6.0
+10/15/1994,Wake Forest,3,No Carolina State,34,26.5
+10/15/1994,Western Michigan,13,Ball State,16, 
+10/15/1994,West Virginia,47,Pittsburgh,41,-2.5
+10/15/1994,Wyoming,24,Fresno State,38,7.0
+10/16/1994,Texas,17,Rice,19,-10.0
+10/22/1994,Ball State,36,Bowling Green,59, 
+10/22/1994,Baylor,7,Texas Tech,38,-1.0
+10/22/1994,Brigham Young,34,UTEP,28,-23.0
+10/22/1994,California,0,Southern Cal,61,9.0
+10/22/1994,Cincinnati,3,Memphis,26,11.0
+10/22/1994,The Citadel,24,Army,25, 
+10/22/1994,Clemson,0,Florida State,17,30.0
+10/22/1994,Duke,51,Wake Forest,26,-18.0
+10/22/1994,East Carolina,28,Tulsa,21,-8.0
+10/22/1994,Eastern Michigan,14,Western Michigan,33, 
+10/22/1994,Fresno State,7,Air Force,42,-3.5
+10/22/1994,Georgia,34,Kentucky,30,-13.0
+10/22/1994,Georgia Tech,27,Maryland,42,-2.0
+10/22/1994,Iowa State,31,Oklahoma State,31,10.0
+10/22/1994,Kansas State,21,Colorado,35,14.5
+10/22/1994,Louisville,35,Navy,14,-22.5
+10/22/1994,Louisiana Tech,17,Northern Illinois,27, 
+10/22/1994,Michigan State,14,Iowa,19,-11.0
+10/22/1994,Miami-Florida,38,West Virginia,6,-21.0
+10/22/1994,Miami-Ohio,30,Central Michigan,32, 
+10/22/1994,Michigan,19,Illinois,14,-4.0
+10/22/1994,Minnesota,17,Wisconsin,14, 
+10/22/1994,Mississippi,10,Alabama,21,10.0
+10/22/1994,North Carolina,10,Virginia,34,3.5
+10/22/1994,Nebraska,42,Missouri,7,-25.0
+10/22/1994,Nevada-Reno,42,San Jose State,10, 
+10/22/1994,New Mexico,56,New Mexico State,31, 
+10/22/1994,Northwestern,20,Indiana,7,10.0
+10/22/1994,Ohio,0,Kent State,24, 
+10/22/1994,Oklahoma,20,Kansas,17,1.5
+10/22/1994,Pacific,30,Arkansas State,16, 
+10/22/1994,Pittsburgh,7,Virginia Tech,45,18.5
+10/22/1994,Purdue,14,Ohio State,48,11.5
+10/22/1994,Rice,0,Texas A+M,7,20.0
+10/22/1994,Rutgers,7,Boston College,7,12.5
+10/22/1994,Samford,16,Southern Miss,59, 
+10/22/1994,South Carolina,19,Vanderbilt,16,0.0
+10/22/1994,San Diego State,35,Wyoming,52,4.5
+10/22/1994,S-M-U,20,Texas,42,20.0
+10/22/1994,Stanford,35,Oregon State,29,1.0
+10/22/1994,UL-Lafayette,27,Utah State,25, 
+10/22/1994,Syracuse,49,Temple,42,-21.0
+10/22/1994,Texas Christian,31,Houston,10,-14.0
+10/22/1994,Toledo,48,Akron,25, 
+10/22/1994,Troy,39,U-C-F,38, 
+10/22/1994,Tulane,22,Mississippi State,66,19.5
+10/22/1994,U.C.L.A.,24,Arizona,34,16.0
+10/22/1994,Utah,45,Colorado State,31,2.5
+10/22/1994,Washington,20,Oregon,31,-8.0
+10/22/1994,Washington State,28,Arizona State,21,-7.0
+10/29/1994,Air Force,34,Wyoming,17,3.0
+10/29/1994,Akron,7,Youngstown State,41, 
+10/29/1994,Arizona,9,Oregon,10,-7.0
+10/29/1994,Arkansas,14,Auburn,31,12.0
+10/29/1994,Arizona State,36,Brigham Young,15,8.5
+10/29/1994,Boston College,30,Army,3,-19.5
+10/29/1994,Cincinnati,21,East Carolina,35,17.0
+10/29/1994,Central Michigan,22,Ohio,10, 
+10/29/1994,Colorado,7,Nebraska,24,0.0
+10/29/1994,Duke,20,Florida State,59,23.5
+10/29/1994,Eastern Michigan,41,Ball State,20, 
+10/29/1994,Georgia,14,Florida,52,22.0
+10/29/1994,Hawaii,23,San Diego State,38,3.0
+10/29/1994,Houston,13,Baylor,52,26.0
+10/29/1994,Illinois,28,Northwestern,7,-11.5
+10/29/1994,Indiana,21,Michigan State,27,8.0
+10/29/1994,Iowa,21,Purdue,21,8.0
+10/29/1994,Kent State,14,Toledo,48, 
+10/29/1994,Kansas State,37,Oklahoma,20,2.0
+10/29/1994,Louisiana State,21,Mississippi,34,2.0
+10/29/1994,Louisiana Tech,16,West Virginia,52, 
+10/29/1994,Memphis,6,Louisville,10,5.0
+10/29/1994,Miami-Ohio,16,Bowling Green,27, 
+10/29/1994,Missouri,34,Iowa State,20,-1.0
+10/29/1994,Mississippi State,47,Kentucky,7,-9.0
+10/29/1994,Navy,21,Notre Dame,58,40.5
+10/29/1994,No Carolina State,17,North Carolina,31,5.0
+10/29/1994,Northern Illinois,16,Vanderbilt,17, 
+10/29/1994,New Mexico,49,Fresno State,32,4.5
+10/29/1994,Ohio State,14,Penn State,63,14.0
+10/29/1994,Oklahoma State,14,Kansas,24,14.5
+10/29/1994,Oregon State,10,Washington,24,15.0
+10/29/1994,Rice,25,Texas Christian,27,-2.0
+10/29/1994,San Jose State,10,Nevada-Las Vegas,23, 
+10/29/1994,S-M-U,21,Texas A+M,21,24.5
+10/29/1994,Stanford,30,U.C.L.A.,31,1.5
+10/29/1994,Temple,19,Pittsburgh,45,10.0
+10/29/1994,Tennessee,31,South Carolina,22,-7.0
+10/29/1994,Texas,9,Texas Tech,33,-2.0
+10/29/1994,Tulane,10,Maryland,38,14.0
+10/29/1994,Tulsa,29,Southern Miss,47,12.0
+10/29/1994,UTEP,7,Utah,52,27.5
+10/29/1994,Utah State,6,Pacific,28, 
+10/29/1994,Virginia Tech,3,Miami-Florida,24,14.0
+10/29/1994,Washington State,26,California,23,-10.0
+10/29/1994,Wake Forest,8,Clemson,24,21.0
+10/29/1994,Wisconsin,31,Michigan,19,11.5
+11/03/1994,Boston College,35,Louisville,14,-4.5
+11/05/1994,Air Force,10,Army,6,-13.5
+11/05/1994,Akron,18,Eastern Michigan,42, 
+11/05/1994,Alabama,35,Louisiana State,17,-6.5
+11/05/1994,Arkansas,7,Mississippi State,17,6.5
+11/05/1994,Arizona State,10,Oregon,34,7.0
+11/05/1994,Ball State,21,Miami-Ohio,24, 
+11/05/1994,Bowling Green,22,Kent State,16, 
+11/05/1994,California,6,Arizona,13,19.0
+11/05/1994,Clemson,28,North Carolina,17,12.0
+11/05/1994,East Carolina,21,Auburn,38,16.0
+11/05/1994,Eastern Washington,49,Utah State,31, 
+11/05/1994,Florida State,41,Georgia Tech,10,-23.0
+11/05/1994,Iowa State,20,Kansas State,38,26.5
+11/05/1994,Illinois,21,Minnesota,17,-10.5
+11/05/1994,Kansas,17,Nebraska,45,20.5
+11/05/1994,Michigan State,35,Northwestern,17,-3.5
+11/05/1994,Memphis,17,Mississippi,16,7.0
+11/05/1994,Miami-Florida,27,Syracuse,6,-14.0
+11/05/1994,Michigan,45,Purdue,23,-15.0
+11/05/1994,Missouri,13,Oklahoma,30,16.5
+11/05/1994,Navy,17,Tulane,15,9.0
+11/05/1994,No Carolina State,47,Maryland,45,-3.0
+11/05/1994,UL-Monroe,10,Brigham Young,24, 
+11/05/1994,Nevada-Reno,62,Fresno State,35, 
+11/05/1994,Northern Illinois,38,Arkansas State,16, 
+11/05/1994,New Mexico State,24,San Jose State,21, 
+11/05/1994,Northern Iowa,12,Idaho,21, 
+11/05/1994,Northwestern St(LA),28,Louisiana Tech,38, 
+11/05/1994,Ohio,3,Western Michigan,15, 
+11/05/1994,Oklahoma State,3,Colorado,17,29.5
+11/05/1994,Pacific,12,Oregon State,24, 
+11/05/1994,Penn State,35,Indiana,29,-24.0
+11/05/1994,Southern Cal,23,Washington State,10,1.0
+11/05/1994,Southern Miss,17,Florida,55,29.0
+11/05/1994,S-M-U,10,Rice,17,11.0
+11/05/1994,Temple,21,Rutgers,38,18.0
+11/05/1994,Toledo,27,Central Michigan,45, 
+11/05/1994,Troy,24,Cincinnati,28, 
+11/05/1994,Texas A+M,34,Texas,10,-4.0
+11/05/1994,Nevada-Las Vegas,27,UL-Lafayette,28, 
+11/05/1994,Utah,21,New Mexico,23,-8.0
+11/05/1994,Vanderbilt,24,Kentucky,6,-2.5
+11/05/1994,Virginia,25,Duke,28,-7.0
+11/05/1994,Washington,28,Stanford,46,-7.0
+11/05/1994,Wisconsin,3,Ohio State,24,2.0
+11/05/1994,Wyoming,24,Colorado State,35,13.0
+11/10/1994,San Diego State,28,Brigham Young,35,10.0
+11/12/1994,Akron,28,Ball State,38, 
+11/12/1994,Alabama,29,Mississippi State,25,-3.0
+11/12/1994,Arizona,28,Southern Cal,45,3.5
+11/12/1994,Baylor,19,Rice,14,-1.5
+11/12/1994,Boston University,21,Army,12, 
+11/12/1994,California,19,Washington,31,15.0
+11/12/1994,U-C-F,20,East Carolina,23, 
+11/12/1994,Cincinnati,7,Wisconsin,38,27.0
+11/12/1994,Central Michigan,36,Bowling Green,33, 
+11/12/1994,Colorado,51,Kansas,26,-13.0
+11/12/1994,Colorado State,3,Arkansas State,48, 
+11/12/1994,Duke,23,No Carolina State,24,2.5
+11/12/1994,Eastern Michigan,24,Ohio,13, 
+11/12/1994,Fresno State,30,UTEP,30,-10.0
+11/12/1994,Florida State,23,Notre Dame,16,-12.5
+11/12/1994,Georgia,23,Auburn,23,12.0
+11/12/1994,Georgia Tech,10,Clemson,20,7.0
+11/12/1994,Houston,13,Texas,48,26.0
+11/12/1994,Kent State,14,Miami-Ohio,24, 
+11/12/1994,Kansas State,21,Missouri,18,-15.0
+11/12/1994,Maryland,21,Virginia,46,15.0
+11/12/1994,Memphis,13,Tennessee,24,16.0
+11/12/1994,Minnesota,22,Michigan,38,24.0
+11/12/1994,Mississippi,38,Tulane,0,-15.0
+11/12/1994,North Carolina,50,Wake Forest,0,-23.0
+11/12/1994,Nebraska,28,Iowa State,12,-34.0
+11/12/1994,UL-Monroe,21,Kentucky,14, 
+11/12/1994,Northern Illinois,27,Arkansas,30, 
+11/12/1994,New Mexico,28,Wyoming,38,1.0
+11/12/1994,Northwestern,13,Iowa,49,5.5
+11/12/1994,Ohio State,32,Indiana,17,-8.5
+11/12/1994,Oklahoma,33,Oklahoma State,14,-8.5
+11/12/1994,Oregon,55,Stanford,21,-4.5
+11/12/1994,Pacific,21,New Mexico State,14, 
+11/12/1994,Penn State,35,Illinois,31,-12.5
+11/12/1994,Pittsburgh,12,Miami-Florida,17,33.0
+11/12/1994,Purdue,30,Michigan State,42,7.5
+11/12/1994,Rutgers,34,Virginia Tech,41,14.5
+11/12/1994,South Carolina,17,Florida,48,27.0
+11/12/1994,S E Missouri St,0,Hawaii,38, 
+11/12/1994,San Jose State,27,Louisiana Tech,6, 
+11/12/1994,Southern Miss,20,Louisiana State,18,4.0
+11/12/1994,UL-Lafayette,7,Texas Tech,39, 
+11/12/1994,Missouri State,28,Tulsa,38, 
+11/12/1994,Syracuse,0,Boston College,31,6.0
+11/12/1994,Texas Christian,35,S-M-U,14,-2.0
+11/12/1994,Texas A+M,26,Louisville,10,-12.0
+11/12/1994,U.C.L.A.,59,Arizona State,23,0.0
+11/12/1994,Utah,33,Air Force,40,-7.5
+11/12/1994,Utah State,28,Nevada-Reno,56, 
+11/12/1994,Washington State,3,Oregon State,21,-6.0
+11/12/1994,Western Michigan,34,Toledo,37, 
+11/12/1994,West Virginia,55,Temple,17,-14.0
+11/19/1994,Air Force,30,Notre Dame,42,15.0
+11/19/1994,Auburn,14,Alabama,21,-1.0
+11/19/1994,Ball State,34,Kent State,0, 
+11/19/1994,Boston College,20,West Virginia,21,-7.5
+11/19/1994,Brigham Young,31,Utah,34,5.5
+11/19/1994,Colorado State,44,Fresno State,42,-8.0
+11/19/1994,East Carolina,30,Memphis,6,1.5
+11/19/1994,Florida,24,Vanderbilt,7,-23.5
+11/19/1994,Florida State,34,No Carolina State,3,-17.5
+11/19/1994,Houston,0,Texas Tech,34,29.0
+11/19/1994,Iowa State,20,Colorado,41,34.0
+11/19/1994,Illinois,13,Wisconsin,19,3.0
+11/19/1994,Indiana,33,Purdue,29,1.0
+11/19/1994,Iowa,49,Minnesota,42,1.0
+11/19/1994,Kansas,31,Missouri,14,-5.0
+11/19/1994,Kentucky,0,Tennessee,52,25.0
+11/19/1994,Louisiana State,49,Tulane,25,-15.0
+11/19/1994,Louisiana Tech,20,Arkansas State,14, 
+11/19/1994,Maryland,16,Syracuse,21,8.5
+11/19/1994,Miami-Florida,38,Temple,14,-35.5
+11/19/1994,Michigan,6,Ohio State,22,-1.0
+11/19/1994,North Carolina,41,Duke,40,-3.0
+11/19/1994,Nevada-Reno,27,Nevada-Las Vegas,32, 
+11/19/1994,New Mexico State,20,Utah State,47, 
+11/19/1994,Northwestern,17,Penn State,45,35.0
+11/19/1994,Ohio,10,Akron,24, 
+11/19/1994,Oklahoma State,6,Kansas State,23,18.0
+11/19/1994,Oregon,17,Oregon State,13,-6.5
+11/19/1994,Rice,17,Navy,29,-16.5
+11/19/1994,Rutgers,21,Pittsburgh,35,-2.5
+11/19/1994,Southern Cal,19,U.C.L.A.,31,-5.5
+11/19/1994,South Carolina,33,Clemson,7,3.5
+11/19/1994,San Jose State,28,Pacific,15, 
+11/19/1994,Stanford,23,California,24,3.0
+11/19/1994,Texas Christian,17,Texas A+M,34,17.5
+11/19/1994,Toledo,37,Eastern Michigan,40, 
+11/19/1994,Tulsa,13,Cincinnati,28,-2.5
+11/19/1994,UTEP,21,New Mexico,25,18.0
+11/19/1994,Virginia,42,Virginia Tech,23,1.0
+11/19/1994,Washington,6,Washington State,23,-1.5
+11/19/1994,Wake Forest,20,Georgia Tech,13,23.0
+11/19/1994,Western Michigan,14,UL-Lafayette,17, 
+11/19/1994,Wyoming,13,Hawaii,10,1.0
+11/24/1994,Syracuse,0,West Virginia,13,2.0
+11/24/1994,Texas,63,Baylor,35,3.0
+11/25/1994,Arizona State,27,Arizona,28,15.0
+11/25/1994,Georgia Tech,10,Georgia,48,16.0
+11/25/1994,No Carolina State,30,Virginia,27,14.0
+11/25/1994,Nebraska,13,Oklahoma,3,-14.0
+11/25/1994,Texas Tech,17,Texas Christian,24,-5.5
+11/26/1994,Boston College,7,Miami-Florida,23,14.0
+11/26/1994,Florida,31,Florida State,31,2.5
+11/26/1994,Fresno State,49,San Diego State,42,6.0
+11/26/1994,Kansas State,42,Nevada-Las Vegas,3, 
+11/26/1994,Louisiana State,30,Arkansas,12,6.5
+11/26/1994,Michigan State,31,Penn State,59,20.0
+11/26/1994,Missouri,32,Hawaii,32,3.5
+11/26/1994,Mississippi State,21,Mississippi,17,-3.0
+11/26/1994,Notre Dame,17,Southern Cal,17,3.0
+11/26/1994,Rice,31,Houston,13,-17.0
+11/26/1994,Tennessee,65,Vanderbilt,0,-11.5
+11/26/1994,Tulsa,27,Louisville,34,13.0
+12/03/1994,Air Force,37,Hawaii,24,-4.5
+12/03/1994,Alabama,23,Florida,24,7.0
+12/03/1994,Army,22,Navy,20,-2.5
