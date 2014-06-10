@@ -141,7 +141,10 @@ getWrankerRankings <- function (
   ) * params$home.adv
 
   o.hats <- logit(ranking.diffs + home.field)
-  likelihood.component <- -5 * sum(game.weights * (o.hats - Xplayed$won)^2)
+  likelihood.component.true <- -5 * sum(game.weights * (o.hats - Xplayed$won)^2)
+  likelihood.component.counter <- -5 * sum(game.weights * (o.hats + Xplayed$won - 1)^2)
+  likelihood.component <- likelihood.component.true /
+    (likelihood.component.true + likelihood.component.counter)
   prior.component <- -0.5 * inv.tau2 * (r - team.cluster.mean)^2
   likelihood.component + prior.component
 }
@@ -305,7 +308,10 @@ getWrankerRankings <- function (
   r.away <- unlist(rankings[Xhome$opponent])
   o.hats <- logit(r.home - r.away + home.adv)
 
-  likelihood.component <- -5 * sum(game.weights * (o.hats - Xhome$won)^2)
+  likelihood.component.true <- -5 * sum(game.weights * (o.hats - Xhome$won)^2)
+  likelihood.component.counter <- -5 * sum(game.weights * (o.hats + Xhome$won - 1)^2)
+  likelihood.component <- likelihood.component.true /
+    (likelihood.component.true + likelihood.component.counter)
   prior.component <- -1 * home.adv^2 / (2 * params$GAMMA2)
   likelihood.component + prior.component
 }
